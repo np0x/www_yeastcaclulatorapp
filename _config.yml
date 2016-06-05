@@ -104,6 +104,7 @@ exclude:
   - CNAME
   - Vagrantfile
 
+gems: [jekyll-paginate]
 # prose.io config
 prose:
   rooturl: '_posts'
